@@ -2,7 +2,7 @@
 """
 Leaf Radiative Transfer Model based on Spectral Invariant Properties
 
-@author: Yelu Zeng, Shengbiao Wu, and Min Chen
+@author: Yelu Zeng, Shengbiao Wu, Min Chen, and Dalei Hao
 
 """
 
